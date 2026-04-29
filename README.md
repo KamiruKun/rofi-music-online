@@ -16,10 +16,10 @@ git clone https://github.com/KamiruKun/rofi-music-online.git
 cd rofi-music-online
 ```
 ```bash
-chmod +x rofi-music-online
+chmod +x rofi-music-online.sh
 ```
 ```bash
-./rofi-music-online
+./rofi-music-online.sh
 ```
 it is recommended to bind it to a hotkey for example in hyprland config
 for example
