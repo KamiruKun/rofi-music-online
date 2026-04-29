@@ -7,7 +7,11 @@ it connects to youtube/souncloud etc.
 -works in the background
 -searching by title/author
 # Needed to work
-yt-dlp socat mpv rofi
+* yt-dlp
+* socat 
+* mpv
+* rofi
+
 # How to set it up
 ```bash
 git clone https://github.com/KamiruKun/rofi-music-online.git
